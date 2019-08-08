@@ -22,7 +22,7 @@ This is a collection of link to text relating to art and technology.
 - [Hito Steyerl, _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](https://github.com/publicityreform/findbyimage/blob/master/readings/steyerl.pdf)
 - [Gilbert Simondon, _"Technical Mentality"_](https://github.com/publicityreform/findbyimage/blob/master/readings/simondon.pdf)
 - [Friedrich Kittler, _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
-- [https://libcom.org/files/A%20Thousand%20Plateaus.pdf](- Gilles Deleuze, Felix Guattari, A thousand plateaus: capitalism and schizophrenia)
+- [Gilles Deleuze, Felix Guattari, A thousand plateaus: capitalism and schizophrenia](https://libcom.org/files/A%20Thousand%20Plateaus.pdf)
 
 **Techno Colonialism**
 - [Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
