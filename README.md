@@ -58,6 +58,8 @@ The Critical Engineering Manifesto. Online: http://criticalengineering.org/
 - [Donna Haraway - Staying with the Trouble: Making Kin in the Chthulucene](https://www.youtube.com/watch?v=GrYA7sMQaBQ)
 - [Raphael Bousso: The World as a Hologram: Black Holes, Information, and the Quest for a Unified Theory of Nature](https://vimeo.com/151382147)
 - [Hito Steyerl; Bubble Vision](https://www.youtube.com/watch?v=boMbdtu2rLE&t=437s)
+[Eyeo 2014 - Lauren McCarthy](https://vimeo.com/110607681)
+
 
 
 
