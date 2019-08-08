@@ -3,14 +3,12 @@
 This is a collection of link to text relating to art and technology.
 
 **Activism and Participation**
-
 - [Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
 - [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 - [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
 
 
 **Digital Images** 
-
 - [Hito Steyler, In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
 
 
@@ -19,7 +17,7 @@ This is a collection of link to text relating to art and technology.
 - [A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
 A Cyborg Manifesto by Donna Haraway
 
-** Algorithms amd power ** 
+**Algorithms amd power** 
 - [What can an algorithm do](http://dismagazine.com/discussion/72975/josh-scannell-what-can-an-algorithm-do/)
 - [Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
 - [Hito Steyerl _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](https://github.com/publicityreform/findbyimage/blob/master/readings/steyerl.pdf)
