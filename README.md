@@ -39,6 +39,7 @@ This is a collection of link to text relating to art and technology.
 - [Hito Steyerl, How Not to be Seen: A Fucking Didactic Educational .MOV File, 2013](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) 
 - [Ryan Trecartin, K-CoreaINC.K (section a), 2009.](https://www.artforum.com/video/ryan-trecartin-k-coreainc-k-section-a-2009-26917)
 - [transmediale 2019 | Carceral Temporalities and the Politics of Dreaming](https://www.youtube.com/watch?v=3X30E1OocBE)
+-[Rasheedah Phillips, exploring time concept, afrofuturism](https://www.youtube.com/watch?v=Fd1LHsnlVC8&feature=youtu.be&t=43m3s)
 - [Trevor Paglen Shows Us How Computers See The World (HBO) - 4 min](https://www.youtube.com/watch?v=HEI8cuGKiNk)
 - [Ian Cheng: BOB, Emissaries](https://www.youtube.com/watch?v=XFmMrcW2ZsM)
 - [James Bridle, New Dark Age](https://www.youtube.com/watch?v=7hSj01bAZAU)
