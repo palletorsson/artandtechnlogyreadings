@@ -23,8 +23,8 @@ This is a collection of link to text relating to art and technology.
 - [Gilbert Simondon, _"Technical Mentality"_](https://github.com/publicityreform/findbyimage/blob/master/readings/simondon.pdf)
 - [Friedrich Kittler, _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
 - [Gilles Deleuze, Felix Guattari, A thousand plateaus: capitalism and schizophrenia](https://libcom.org/files/A%20Thousand%20Plateaus.pdf)
-[Gilles Deleuze, Felix Guattari, Introduction: Rhizome](http://interconnected.org/home/more/2005/06/1000Plateaus00Rhizome.pdf)
-[Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
+- [Gilles Deleuze, Felix Guattari, Introduction: Rhizome](http://interconnected.org/home/more/2005/06/1000Plateaus00Rhizome.pdf)
+- [Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
 
 **Techno Colonialism**
 - [Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
