@@ -10,7 +10,7 @@ This is a collection of link to text relating to art and technology.
 
 **Digital Images** 
 - [Hito Steyler, In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
-
+- [Trevor Paglen, Operational Images](http://worker01.e-flux.com/pdf/article_8990555.pdf)
 
 **Futurism in the now** 
 - [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
