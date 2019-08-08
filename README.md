@@ -30,6 +30,7 @@ This is a collection of link to text relating to art and technology.
 - [Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
 _ [Thoughts on Software for the Visual Arts
 ](https://medium.com/@ProcessingOrg/thoughts-on-software-a8a82c95e1ad) - Casey Reas - article
+- [Mark C. Marino, Critical Critical Code Studies](http://www.electronicbookreview.com/thread/electropoetics/codology)
 
 **Techno Colonialism**
 - [Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
