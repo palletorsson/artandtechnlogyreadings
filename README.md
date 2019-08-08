@@ -51,6 +51,8 @@ https://beyondresolution.info/Manifesto-Block
 - [Donna Haraway - Staying with the Trouble: Making Kin in the Chthulucene](https://www.youtube.com/watch?v=GrYA7sMQaBQ)
 
 
+[Raphael Bousso: The World as a Hologram: Black Holes, Information, and the Quest for a Unified Theory of Nature](https://vimeo.com/151382147)
+
 
 
 
