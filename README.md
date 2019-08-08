@@ -40,7 +40,6 @@ https://beyondresolution.info/Manifesto-Block
 
 **Video**
 - [All Watched Over by Machines of Loving Grace - Episode 1 - Love and Power](https://vimeo.com/groups/96331/videos/80799353)
-
 - [Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)](https://www.youtube.com/watch?v=TVwKjGbz60k)
 - [Hito Steyerl, How Not to be Seen: A Fucking Didactic Educational .MOV File, 2013](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) 
 - [Ryan Trecartin, K-CoreaINC.K (section a), 2009.](https://www.artforum.com/video/ryan-trecartin-k-coreainc-k-section-a-2009-26917)
@@ -55,8 +54,9 @@ https://beyondresolution.info/Manifesto-Block
 - [Donna Haraway - Staying with the Trouble: Making Kin in the Chthulucene](https://www.youtube.com/watch?v=GrYA7sMQaBQ)
 
 
-[Raphael Bousso: The World as a Hologram: Black Holes, Information, and the Quest for a Unified Theory of Nature](https://vimeo.com/151382147)
+- [Raphael Bousso: The World as a Hologram: Black Holes, Information, and the Quest for a Unified Theory of Nature](https://vimeo.com/151382147)
 
+[Hito Steyerl; Bubble Vision](https://www.youtube.com/watch?v=boMbdtu2rLE&t=437s)
 
 
 
