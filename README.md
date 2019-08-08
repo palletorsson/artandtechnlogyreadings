@@ -55,7 +55,34 @@ https://beyondresolution.info/Manifesto-Block
 [Raphael Bousso: The World as a Hologram: Black Holes, Information, and the Quest for a Unified Theory of Nature](https://vimeo.com/151382147)
 
 
+- ["Society of the Spectacles"](https://www.marxists.org/reference/archive/debord/society.htm) by Guy Debord (1967)
+- ["Postscript on the Societies of Control"](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by Gilles Deleuze (1992)
 
+
+####Community 
+
+- Claire Bishop's presentation ["Participation and Spectacle: Where Are We Now?," Presented as part of Living as Form](https://vimeo.com/24193060) 
+- Nice summary of Bishop's lecture [Here](https://quigley.wordpress.com/2011/07/07/summary-of-%E2%80%9Cparticipation-and-spectacle%E2%80%9D-claire-bishop/)
+- The Social Turn: Collaboration and its discontent [Here in original layout](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Art%20History/Claire%20Bishop/Social-Turn.pdf) [Here is text only](http://cam.usf.edu/CAM/exhibitions/2008_8_Torolab/Readings/The_Social_Turn_CBishop.pdf)
+
+####Silence and noise
+ 
+- [Silence](http://dss-edit.com/prof-anon/sound/library/Cage_Silence.pdf) by John Cage  
+
+####Movement 
+
+- Pina Bausch [Fall](https://www.youtube.com/watch?v=zS8hEj37CrA)
+- Goat Island Performance Group [Video](https://www.youtube.com/watch?v=5M7xicwfgkQ&list=PLsb3sztmPMTmd1-0qGEmO4YwMr9H6KL-b)
+- [39 Micro lectures](https://getit.library.nyu.edu/go/9385763) 
+- [Every house has a door](http://everyhousehasadoor.org/)
+-  Lygia Clark [Moma](http://www.nytimes.com/2014/05/16/arts/design/lygia-clarks-many-twists-and-turns-at-moma.html#)
+ 
+  
+
+
+ 
+
+ 
 
 
 
