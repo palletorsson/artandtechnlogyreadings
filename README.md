@@ -25,6 +25,8 @@ This is a collection of link to text relating to art and technology.
 - [Friedrich Kittler, _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
 - [Gilles Deleuze, Felix Guattari, A thousand plateaus: capitalism and schizophrenia](https://libcom.org/files/A%20Thousand%20Plateaus.pdf)
 - [Gilles Deleuze, Felix Guattari, Introduction: Rhizome](http://interconnected.org/home/more/2005/06/1000Plateaus00Rhizome.pdf)
+- ["Society of the Spectacles"](https://www.marxists.org/reference/archive/debord/society.htm) by Guy Debord (1967)
+- ["Postscript on the Societies of Control"](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by Gilles Deleuze (1992)
 - [Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
 
 **Techno Colonialism**
@@ -34,7 +36,7 @@ This is a collection of link to text relating to art and technology.
 **Manifestos**
 - [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)
 https://beyondresolution.info/Manifesto-Block
-Adrian Piper, [Calling Card](http://wendyjanegrossman.com/wp-content/uploads/2013/01/adrain-piper-calling-card.jpg)
+- Adrian Piper, [Calling Card](http://wendyjanegrossman.com/wp-content/uploads/2013/01/adrain-piper-calling-card.jpg)
 
 **Video**
 - [All Watched Over by Machines of Loving Grace - Episode 1 - Love and Power](https://vimeo.com/groups/96331/videos/80799353)
@@ -56,8 +58,7 @@ Adrian Piper, [Calling Card](http://wendyjanegrossman.com/wp-content/uploads/201
 [Raphael Bousso: The World as a Hologram: Black Holes, Information, and the Quest for a Unified Theory of Nature](https://vimeo.com/151382147)
 
 
-- ["Society of the Spectacles"](https://www.marxists.org/reference/archive/debord/society.htm) by Guy Debord (1967)
-- ["Postscript on the Societies of Control"](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by Gilles Deleuze (1992)
+
 
 
 
