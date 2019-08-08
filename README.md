@@ -3,8 +3,8 @@
 This is a collection of link to text relating to art and technology.
 
 **Activism and Participation**
-- [Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
-- [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
+- [Claire Bishop, Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
+- [Boris Groys, On Art Activism](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 - [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
 
 
@@ -14,15 +14,15 @@ This is a collection of link to text relating to art and technology.
 
 **Futurism in the now** 
 - [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
-- [A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
+- [Donna Haraway, A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
 A Cyborg Manifesto by Donna Haraway
 
 **Algorithms amd power** 
 - [What can an algorithm do](http://dismagazine.com/discussion/72975/josh-scannell-what-can-an-algorithm-do/)
-- [Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
-- [Hito Steyerl _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](https://github.com/publicityreform/findbyimage/blob/master/readings/steyerl.pdf)
-- [Gilbert Simondon _"Technical Mentality"_](https://github.com/publicityreform/findbyimage/blob/master/readings/simondon.pdf)
-- [Friedrich Kittler _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
+- [Alan Turing, "Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
+- [Hito Steyerl, _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](https://github.com/publicityreform/findbyimage/blob/master/readings/steyerl.pdf)
+- [Gilbert Simondon, _"Technical Mentality"_](https://github.com/publicityreform/findbyimage/blob/master/readings/simondon.pdf)
+- [Friedrich Kittler, _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
 
 **Techno Colonialism**
 - [Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
@@ -30,8 +30,6 @@ A Cyborg Manifesto by Donna Haraway
 
 **Manifestos**
 - [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)
-
-
 
 
 **Video**
