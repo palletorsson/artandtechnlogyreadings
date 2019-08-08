@@ -34,6 +34,6 @@ A Cyborg Manifesto by Donna Haraway
 
 
 
-** Video **
+**Video**
 - [All Watched Over by Machines of Loving Grace - Episode 1 - Love and Power](https://vimeo.com/groups/96331/videos/80799353)
 
