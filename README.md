@@ -28,6 +28,8 @@ This is a collection of link to text relating to art and technology.
 - ["Society of the Spectacles"](https://www.marxists.org/reference/archive/debord/society.htm) by Guy Debord (1967)
 - ["Postscript on the Societies of Control"](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by Gilles Deleuze (1992)
 - [Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
+_ [Thoughts on Software for the Visual Arts
+](https://medium.com/@ProcessingOrg/thoughts-on-software-a8a82c95e1ad) - Casey Reas - article
 
 **Techno Colonialism**
 - [Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
