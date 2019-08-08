@@ -23,6 +23,7 @@ This is a collection of link to text relating to art and technology.
 - [Gilbert Simondon, _"Technical Mentality"_](https://github.com/publicityreform/findbyimage/blob/master/readings/simondon.pdf)
 - [Friedrich Kittler, _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
 - [Gilles Deleuze, Felix Guattari, A thousand plateaus: capitalism and schizophrenia](https://libcom.org/files/A%20Thousand%20Plateaus.pdf)
+[Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
 
 **Techno Colonialism**
 - [Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
@@ -30,6 +31,7 @@ This is a collection of link to text relating to art and technology.
 
 **Manifestos**
 - [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)
+https://beyondresolution.info/Manifesto-Block
 
 
 **Video**
@@ -47,6 +49,9 @@ This is a collection of link to text relating to art and technology.
 - [John Berger / Ways of Seeing , Episode 1 (1972)](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
 - [Suhail Malik: The Problem with Contemporary Art is not the Contemporary](https://www.artandeducation.net/classroom/video/66326/suhail-malik-the-problem-with-contemporary-art-is-not-the-contemporary)
 - [Donna Haraway - Staying with the Trouble: Making Kin in the Chthulucene](https://www.youtube.com/watch?v=GrYA7sMQaBQ)
+
+
+
 
 
 
