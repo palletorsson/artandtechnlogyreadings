@@ -34,44 +34,22 @@ This is a collection of link to text relating to art and technology.
 
 **Video**
 - [All Watched Over by Machines of Loving Grace - Episode 1 - Love and Power](https://vimeo.com/groups/96331/videos/80799353)
-Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)
-The glasses and the film. 
-https://www.youtube.com/watch?v=TVwKjGbz60k
- 
-Hito Steyerl, How Not to be Seen: A Fucking Didactic Educational .MOV File, 2013
-https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651
 
-Ryan Trecartin, K-CoreaINC.K (section a), 2009.
-https://www.artforum.com/video/ryan-trecartin-k-coreainc-k-section-a-2009-26917
-
-More
-https://www.artforum.com/video/artist_videos
+- [Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)](https://www.youtube.com/watch?v=TVwKjGbz60k)
+- [Hito Steyerl, How Not to be Seen: A Fucking Didactic Educational .MOV File, 2013](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) 
+- [Ryan Trecartin, K-CoreaINC.K (section a), 2009.](https://www.artforum.com/video/ryan-trecartin-k-coreainc-k-section-a-2009-26917)
+- [transmediale 2019 | Carceral Temporalities and the Politics of Dreaming](https://www.youtube.com/watch?v=3X30E1OocBE)
+- [Trevor Paglen Shows Us How Computers See The World (HBO) - 4 min](https://www.youtube.com/watch?v=HEI8cuGKiNk)
+- [Ian Cheng: BOB, Emissaries](https://www.youtube.com/watch?v=XFmMrcW2ZsM)
+- [James Bridle, New Dark Age](https://www.youtube.com/watch?v=7hSj01bAZAU)
+- [10 Reasons to Get Off Social Media - Jaron Lanier](https://www.youtube.com/watch?v=BCTlcj5vImk)
+- [John Berger / Ways of Seeing , Episode 1 (1972)](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
 
 
-transmediale 2019 | Carceral Temporalities and the Politics of Dreaming
-
-https://www.youtube.com/watch?v=3X30E1OocBE
 
 
-Trevor Paglen Shows Us How Computers See The World (HBO) - 4 min
-https://www.youtube.com/watch?v=HEI8cuGKiNk
- 
-
-Ian Cheng: BOB, Emissaries
-
-https://www.youtube.com/watch?v=XFmMrcW2ZsM
-
-James Bridle, New Dark Age
-https://www.youtube.com/watch?v=7hSj01bAZAU
-
-Siva Vaidhyanathan: Antisocial Media
-https://www.youtube.com/watch?v=iuftoJTdIIA
 
 
-10 Reasons to Get Off Social Media - Jaron Lanier
-https://www.youtube.com/watch?v=BCTlcj5vImk
 
-John Berger / Ways of Seeing , Episode 1 (1972)
-https://www.youtube.com/watch?v=0pDE4VX_9Kk
 
 
