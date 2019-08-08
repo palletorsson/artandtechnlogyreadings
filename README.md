@@ -30,3 +30,11 @@ A Cyborg Manifesto by Donna Haraway
 
 **Manifestos**
 - [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)
+
+[Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
+
+[Hito Steyerl _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](https://github.com/publicityreform/findbyimage/blob/master/readings/steyerl.pdf)
+
+[Gilbert Simondon _"Technical Mentality"_](https://github.com/publicityreform/findbyimage/blob/master/readings/simondon.pdf)
+
+[Friedrich Kittler _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
