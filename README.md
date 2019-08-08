@@ -46,6 +46,8 @@ This is a collection of link to text relating to art and technology.
 - [10 Reasons to Get Off Social Media - Jaron Lanier](https://www.youtube.com/watch?v=BCTlcj5vImk)
 - [John Berger / Ways of Seeing , Episode 1 (1972)](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
 -[Suhail Malik: The Problem with Contemporary Art is not the Contemporary](https://www.artandeducation.net/classroom/video/66326/suhail-malik-the-problem-with-contemporary-art-is-not-the-contemporary)
+[Donna Haraway - Staying with the Trouble: Making Kin in the Chthulucene](https://www.youtube.com/watch?v=GrYA7sMQaBQ)
+
 
 
 
