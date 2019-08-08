@@ -4,9 +4,9 @@ This is a collaction of link to text relating to art and technology.
 
 **Activism and Participation**
 
-⋅⋅⋅[Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
-⋅⋅⋅[On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
-⋅⋅⋅[Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
+- [Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
+- [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
+- [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
 
 
 **Digital Images** 
