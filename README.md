@@ -11,6 +11,7 @@ This is a collection of link to text relating to art and technology.
 
 **Digital Images** 
 - [Hito Steyler, In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
+[Hito Steyerl, A Thing Like You and Me](https://www.e-flux.com/journal/15/61298/a-thing-like-you-and-me/)
 - [Trevor Paglen, Operational Images](http://worker01.e-flux.com/pdf/article_8990555.pdf)
 
 **Futurism in the now** 
