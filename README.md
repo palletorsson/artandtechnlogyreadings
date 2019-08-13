@@ -14,7 +14,7 @@ This is a collection of link to text relating to art and technology.
 - [Hito Steyerl, A Thing Like You and Me](https://www.e-flux.com/journal/15/61298/a-thing-like-you-and-me/)
 - [Trevor Paglen, Operational Images](http://worker01.e-flux.com/pdf/article_8990555.pdf)
 
-**The artworld and technology** 
+**The artworld and Technology** 
 - [Hito Steyerl, Duty-Free Art](https://www.e-flux.com/journal/63/60894/duty-free-art/)
 
 **Futurism in the now** 
