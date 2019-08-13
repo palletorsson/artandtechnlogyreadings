@@ -14,6 +14,9 @@ This is a collection of link to text relating to art and technology.
 - [Hito Steyerl, A Thing Like You and Me](https://www.e-flux.com/journal/15/61298/a-thing-like-you-and-me/)
 - [Trevor Paglen, Operational Images](http://worker01.e-flux.com/pdf/article_8990555.pdf)
 
+**The artworld and technology** 
+- [Hito Steyerl, Duty-Free Art](https://www.e-flux.com/journal/63/60894/duty-free-art/)
+
 **Futurism in the now** 
 - [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
 - [Donna Haraway, A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
