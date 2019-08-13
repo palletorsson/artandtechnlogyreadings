@@ -12,10 +12,11 @@ This is a collection of link to text relating to art and technology.
 **Digital Images** 
 - [Hito Steyler, In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
 - [Hito Steyerl, A Thing Like You and Me](https://www.e-flux.com/journal/15/61298/a-thing-like-you-and-me/)
-- [Trevor Paglen, Operational Images](http://worker01.e-flux.com/pdf/article_8990555.pdf)
+- [Trevor Paglen, Operational Images (the about Harun Farocki)](http://worker01.e-flux.com/pdf/article_8990555.pdf)
 
 **The artworld and Technology** 
 - [Hito Steyerl, Duty-Free Art](https://www.e-flux.com/journal/63/60894/duty-free-art/)
+- [Arthur Danto, The Artworld](http://faculty.georgetown.edu/irvinem/visualarts/Danto-Artworld.pdf)
 
 **Futurism in the now** 
 - [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
@@ -29,12 +30,22 @@ This is a collection of link to text relating to art and technology.
 - [Friedrich Kittler, _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
 - [Gilles Deleuze, Felix Guattari, A thousand plateaus: capitalism and schizophrenia](https://libcom.org/files/A%20Thousand%20Plateaus.pdf)
 - [Gilles Deleuze, Felix Guattari, Introduction: Rhizome](http://interconnected.org/home/more/2005/06/1000Plateaus00Rhizome.pdf)
-- ["Society of the Spectacles"](https://www.marxists.org/reference/archive/debord/society.htm) by Guy Debord (1967)
-- ["Postscript on the Societies of Control"](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by Gilles Deleuze (1992)
+- [Guy Debord , Society of the Spectacles](https://www.marxists.org/reference/archive/debord/society.htm) by (1967)
+- [Gilles Deleuze, Postscript on the Societies of Control](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by  (1992)
 - [Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
 _ [Thoughts on Software for the Visual Arts
 ](https://medium.com/@ProcessingOrg/thoughts-on-software-a8a82c95e1ad) - Casey Reas - article
 - [Mark C. Marino, Critical Critical Code Studies](http://www.electronicbookreview.com/thread/electropoetics/codology)
+
+- [Jacques Ranciere, The Thinking of Dissensus: Politics and Aesthetics](http://chtodelat.org/wp-content/uploads/2006/08/ranciere_-thinking_of_dissensus_2011.pdf)
+- [Chantal Mouffe, Artistic Activism and Agonistic Spaces](http://www.artandresearch.org.uk/v1n2/pdfs/mouffe.pdf)
+- [Dark Matter: Activist Art and the Counter-Public Sphere Gregory Sholette](http://www.gregorysholette.com/wp-content/uploads/2011/04/05_darkmattertwo1.pdf)
+- [Sara Ahmed, Orientations toward a queer Phenomenology](https://muse.jhu.edu/article/202832)
+- [Donna Haraway Simians, cyborgs and women the reinvention of nature](https://monoskop.org/images/f/f3/Haraway_Donna_J_Simians_Cyborgs_and_Women_The_Reinvention_of_Nature.pdf)	
+- [Matthias Studer, Gift and Free Software](http://www.commoner.org.uk/09studer.pdf)
+- [Cyber Marx, kapitel 8, "Zero State: Computerised Counter-Plannin](https://libcom.org/files/Chapter8.pdf)
+- [Cyber Marx, kapitel 4](https://libcom.org/files/Chapter4.pdf)
+- [Michel Foucault, What is an Author](http://www.english.upenn.edu/~cavitch/pdf-library/Foucault_Author.pdf)
 
 **Techno Colonialism**
 - [Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
