@@ -57,6 +57,9 @@ https://beyondresolution.info/Manifesto-Block
 - Adrian Piper, [Calling Card](http://wendyjanegrossman.com/wp-content/uploads/2013/01/adrain-piper-calling-card.jpg)
 The Critical Engineering Manifesto. Online: http://criticalengineering.org/
 
+[Paul Virilio, The Vision Machine
+](http://cmuems.com/excap/readings/virilio-the-vision-machine.pdf)
+
 **Video**
 - [All Watched Over by Machines of Loving Grace - Episode 1 - Love and Power](https://vimeo.com/groups/96331/videos/80799353)
 - [Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)](https://www.youtube.com/watch?v=TVwKjGbz60k)
