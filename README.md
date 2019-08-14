@@ -23,7 +23,7 @@ This is a collection of link to text relating to art and technology.
 - [Donna Haraway, A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
 
 **Algorithms amd power** 
-- [What can an algorithm do](http://dismagazine.com/discussion/72975/josh-scannell-what-can-an-algorithm-do/)
+- [What can an algorithm do, Josh Scannell on the NYPD’s DAS system](http://dismagazine.com/discussion/72975/josh-scannell-what-can-an-algorithm-do/)
 - [Alan Turing, "Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
 - [Hito Steyerl, _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](https://github.com/publicityreform/findbyimage/blob/master/readings/steyerl.pdf)
 - [Gilbert Simondon, _"Technical Mentality"_](https://github.com/publicityreform/findbyimage/blob/master/readings/simondon.pdf)
