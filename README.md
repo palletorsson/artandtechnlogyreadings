@@ -59,6 +59,7 @@ The Critical Engineering Manifesto. Online: http://criticalengineering.org/
 
 [Paul Virilio, The Vision Machine
 ](http://cmuems.com/excap/readings/virilio-the-vision-machine.pdf)
+William S. Burroughs, The Cut-Up Method of Brion Gysin](http://www.ubu.com/papers/burroughs_gysin.html)
 
 **Video**
 - [All Watched Over by Machines of Loving Grace - Episode 1 - Love and Power](https://vimeo.com/groups/96331/videos/80799353)
