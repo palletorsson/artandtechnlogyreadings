@@ -31,7 +31,7 @@ This is a collection of link to text relating to art and technology.
 - [Gilles Deleuze, Felix Guattari, A thousand plateaus: capitalism and schizophrenia](https://libcom.org/files/A%20Thousand%20Plateaus.pdf)
 - [Gilles Deleuze, Felix Guattari, Introduction: Rhizome](http://interconnected.org/home/more/2005/06/1000Plateaus00Rhizome.pdf)
 - [Guy Debord , Society of the Spectacles](https://www.marxists.org/reference/archive/debord/society.htm) by (1967)
-- [Gilles Deleuze, Postscript on the Societies of Control](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by  (1992)
+- [Gilles Deleuze, Postscript on the Societies of Control](https://theanarchistlibrary.org/library/gilles-deleuze-postscript-on-the-societies-of-control.pdf) by  (1992)
 - [Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
 _ [Thoughts on Software for the Visual Arts
 ](https://medium.com/@ProcessingOrg/thoughts-on-software-a8a82c95e1ad) - Casey Reas - article
