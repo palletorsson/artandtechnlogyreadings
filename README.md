@@ -27,7 +27,7 @@ This is a collection of link to text relating to art and technology.
 - [Alan Turing, "Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
 - [Hito Steyerl, _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](https://github.com/publicityreform/findbyimage/blob/master/readings/steyerl.pdf)
 - [Gilbert Simondon, _"Technical Mentality"_](https://github.com/publicityreform/findbyimage/blob/master/readings/simondon.pdf)
-- [Friedrich Kittler, _"There Is No Software"_](https://github.com/publicityreform/findbyimage/blob/master/readings/kittler.pdf)
+- [Friedrich Kittler, _"There Is No Software"_](http://classes.dma.ucla.edu/Fall14/252A/readings/kittler-there-is-no-software.pdf)
 - [Gilles Deleuze, Felix Guattari, A thousand plateaus: capitalism and schizophrenia](https://libcom.org/files/A%20Thousand%20Plateaus.pdf)
 - [Gilles Deleuze, Felix Guattari, Introduction: Rhizome](http://interconnected.org/home/more/2005/06/1000Plateaus00Rhizome.pdf)
 - [Guy Debord , Society of the Spectacles](https://www.marxists.org/reference/archive/debord/society.htm) by (1967)
