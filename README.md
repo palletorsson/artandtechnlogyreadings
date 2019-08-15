@@ -33,7 +33,7 @@ This is a collection of link to text relating to art and technology.
 - [Guy Debord , Society of the Spectacles](https://www.marxists.org/reference/archive/debord/society.htm) by (1967)
 - [Gilles Deleuze, Postscript on the Societies of Control](https://theanarchistlibrary.org/library/gilles-deleuze-postscript-on-the-societies-of-control.pdf) by  (1992)
 - [Florian Cramer, What is Autonomy?](https://autonomousfabric.org/text/what-is-autonomy)
-_ [Thoughts on Software for the Visual Arts
+- [Thoughts on Software for the Visual Arts
 ](https://medium.com/@ProcessingOrg/thoughts-on-software-a8a82c95e1ad) - Casey Reas - article
 - [Mark C. Marino, Critical Critical Code Studies](http://www.electronicbookreview.com/thread/electropoetics/codology)
 
