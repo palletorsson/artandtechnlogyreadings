@@ -13,6 +13,7 @@ This is a collection of link to text relating to art and technology.
 - [Hito Steyler, In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
 - [Hito Steyerl, A Thing Like You and Me](https://www.e-flux.com/journal/15/61298/a-thing-like-you-and-me/)
 - [Trevor Paglen, Operational Images (the about Harun Farocki)](http://worker01.e-flux.com/pdf/article_8990555.pdf)
+- [Kwon_Miwon_One_Place_after_Anothe](https://monoskop.org/images/d/d3/Kwon_Miwon_One_Place_after_Another_Site-Specific_Art_and_Locational_Identity.pdf)
 
 **The artworld and Technology** 
 - [Hito Steyerl, Duty-Free Art](https://www.e-flux.com/journal/63/60894/duty-free-art/)
