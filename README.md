@@ -81,6 +81,9 @@ William S. Burroughs, The Cut-Up Method of Brion Gysin](http://www.ubu.com/paper
 [Eyeo 2014 - Lauren McCarthy](https://vimeo.com/110607681)
 
 
+**Art work** 
+- [Tilted Arc](https://en.wikipedia.org/wiki/Tilted_Arc)
+
 
 
 
