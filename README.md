@@ -79,9 +79,11 @@ William S. Burroughs, The Cut-Up Method of Brion Gysin](http://www.ubu.com/paper
 - [Donna Haraway - Staying with the Trouble: Making Kin in the Chthulucene](https://www.youtube.com/watch?v=GrYA7sMQaBQ)
 - [Raphael Bousso: The World as a Hologram: Black Holes, Information, and the Quest for a Unified Theory of Nature](https://vimeo.com/151382147)
 - [Hito Steyerl; Bubble Vision](https://www.youtube.com/watch?v=boMbdtu2rLE&t=437s)
-[Eyeo 2014 - Lauren McCarthy](https://vimeo.com/110607681)
-
-
+- [Eyeo 2014 - Lauren McCarthy](https://vimeo.com/110607681)
+- [Anticapitalist Feminist Struggle, and Transnational Solidarity - an interview with Chandra Talpade Mohanty (77 min. 2007/2011) En film av jesper Nordahl, konstnär](https://vimeo.com/28572566)
+- [Roxy Farhat “A Middle Class Paradise” (2010)](https://www.youtube.com/watch?v=GbFjmct2JuM)
+- [Lecture Youtube about Levinas](https://www.youtube.com/watch?v=S-YqKLZDf34)
+ 
 **Art work** 
 - [Tilted Arc](https://en.wikipedia.org/wiki/Tilted_Arc)
 
