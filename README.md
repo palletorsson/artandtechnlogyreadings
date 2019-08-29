@@ -89,7 +89,7 @@ William S. Burroughs, The Cut-Up Method of Brion Gysin](http://www.ubu.com/paper
 
 
 **Svenska**
-[johan-wickstrom---dekonstruerad-lankning](https://www.oru.se/globalassets/oru-sv/forskning/forskningsmiljoer/hs/humus/utbildning-och-demokrati/2015/nr-3/johan-wickstrom---dekonstruerad-lankning.pdf)
+- [johan-wickstrom---dekonstruerad-lankning](https://www.oru.se/globalassets/oru-sv/forskning/forskningsmiljoer/hs/humus/utbildning-och-demokrati/2015/nr-3/johan-wickstrom---dekonstruerad-lankning.pdf)
 
 
 
