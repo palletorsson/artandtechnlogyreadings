@@ -93,5 +93,55 @@ William S. Burroughs, The Cut-Up Method of Brion Gysin](http://www.ubu.com/paper
 
 
 
+Donna Haraway, Kapitel 9 Situerad kunskap ur Apor Cyborger och Kvinnor
+
+Jacques Ranciere The Thinking of Dissensus: Politics and Aesthetics
+http://chtodelat.org/wp-content/uploads/2006/08/ranciere_-thinking_of_dissensus_2011.pdf
+ 
+Artistic Activism and Agonistic Spaces av Chantal Mouffe
+http://www.artandresearch.org.uk/v1n2/pdfs/mouffe.pdf
+
+ Dark Matter: Activist Art and the Counter-Public Sphere Gregory Sholette
+http://www.gregorysholette.com/wp-content/uploads/2011/04/05_darkmattertwo1.pdf
+
+Sara Ahmed, Orientations toward a queer Phenomenology
+https://muse.jhu.edu/article/202832
+ 
+Donna Haraway Simians, cyborgs and women the reinvention of nature
+https://monoskop.org/images/f/f3/Haraway_Donna_J_Simians_Cyborgs_and_Women_The_Reinvention_of_Nature.pdf
+Läs kapitel 8 Ett cyborgmanifest. 
+	
+"Gift and Free Software" - Matthias Studer
+http://www.commoner.org.uk/09studer.pdf
+
+"The coming insurrection" - The Invisible Committee: Läs kapitlet: "Fourth Circle: More simple, more fun, more mobile, more secure!” 
+http://tarnac9.wordpress.com/texts/the-coming-insurrection/
+
+Cyber Marx, kapitel 8, sid. 25-33 "Zero State: Computerised Counter-Planning"
+https://libcom.org/files/Chapter8.pdf
+
+Cyber Marx, kapitel 4, sid. 5-43
+https://libcom.org/files/Chapter4.pdf
+
+Arthur Danto, The Artworld
+http://faculty.georgetown.edu/irvinem/visualarts/Danto-Artworld.pdf
+
+Gille Deleuze Postskriptum om kontrollsamhällena
+https://ika102.files.wordpress.com/2013/03/gilles-deleuze-post-scriptum.pdf
+
+
+Graham Harman, The Third Table
+
+Wendy Brown, Att hålla fast vid en skada.  
+
+Judith Butler, Osäkra liv. 
+
+
+Utdrag ur Tusen platåer  Gilles Deleuze och Félix Guattari, 
+315 - 348 Mikropolitik och segmentaritet
+
+Michel Foucault, What is an Author
+http://www.english.upenn.edu/~cavitch/pdf-library/Foucault_Author.pdf
+Ur Aesthetics, Method, and 
 
 
