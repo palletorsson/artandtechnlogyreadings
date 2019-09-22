@@ -23,6 +23,7 @@ This is a collection of link to text relating to art and technology.
 **Futurism in the now** 
 - [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
 - [Donna Haraway, A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
+- (Valerie Solanas, S.C.U.M. Manifesto)[http://kunsthallezurich.ch/sites/default/files/scum_manifesto.pdf]
 
 **Algorithms amd power** 
 - [What can an algorithm do, Josh Scannell on the NYPD’s DAS system](http://dismagazine.com/discussion/72975/josh-scannell-what-can-an-algorithm-do/)
