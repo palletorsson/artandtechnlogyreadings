@@ -26,6 +26,7 @@ This is a collection of link to text relating to art and technology.
 - [Valerie Solanas, S.C.U.M. Manifesto](http://kunsthallezurich.ch/sites/default/files/scum_manifesto.pdf)
 
 **Algorithms amd power** 
+[Martin Heidegger, The Question Concerning Technology ](https://simondon.ocular-witness.com/wp-content/uploads/2008/05/question_concerning_technology.pdf)
 - [What can an algorithm do, Josh Scannell on the NYPD’s DAS system](http://dismagazine.com/discussion/72975/josh-scannell-what-can-an-algorithm-do/)
 - [Alan Turing, "Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
 - [Hito Steyerl, _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](https://github.com/publicityreform/findbyimage/blob/master/readings/steyerl.pdf)
@@ -58,6 +59,7 @@ This is a collection of link to text relating to art and technology.
 - [The coming insurrection](http://tarnac9.wordpress.com/texts/the-coming-insurrection/)
 - [Arthur Danto, The Artworld](http://faculty.georgetown.edu/irvinem/visualarts/Danto-Artworld.pdf)
 - Graham Harman, The Third Table
+
 **Techno Colonialism**
 - [Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
 - [On Climate / Borders / Survival / Care / Struggle](http://www.basepublication.org/?p=474)
